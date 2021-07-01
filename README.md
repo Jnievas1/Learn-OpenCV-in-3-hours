@@ -58,3 +58,9 @@
 |:---|:---|
 |1.|[Recommended IDE: PyCharm Community edition](https://www.jetbrains.com/pycharm/download/)|
 |2.|[Python: 3.7.6](https://www.python.org/downloads/release/python-376/)|
+
+
+
+
+This is my fork of tello lessons
+
